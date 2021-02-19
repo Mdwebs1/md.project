@@ -494,7 +494,7 @@ p{
 	.bb{
 		height: 180%;
 		align-items: center;
-	
+		margin-left: 36%;
 	
 	}
 		
@@ -620,9 +620,7 @@ p{
   
   
 @media (min-width:320px) and (max-width:767px) {
-	.nav{
-		width: 100%;
-	}
+	
 	.boxs{
 	
 		grid-gap: 2%;
@@ -637,7 +635,7 @@ p{
 	.bb{
 		height: 180%;
 		align-items: center;
-		margin-left: 36%;
+		
 	
 	}
 	.img{
